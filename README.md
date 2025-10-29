@@ -42,19 +42,8 @@
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
 </p>
 
----
 
-<h3 align="center">🔥 GitHub Stats:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlanYuan16&show_icons=true&theme=tokyonight" alt="Alan Yuan GitHub stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlanYuan16&theme=tokyonight" alt="GitHub Streak" />
-</p>
 
----
-
-<h3 align="center">💡 Keywords (for SEO):</h3>
 
 <p align="center">
   Alan Yuan | Full-Stack Developer | React Native | AI Developer | Python | Java | TypeScript | JavaScript | Flask | Node.js | Android | Firebase | Machine Learning | NYIT Computer Science | Open Source | App Development | Web Developer | Data Visualization | Software Engineer | Frontend | Backend | GitHub Portfolio
