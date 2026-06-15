@@ -1,50 +1,79 @@
-<h1 align="center">Hi 👋, I'm Alan Yuan</h1>
-<h3 align="center">💻 Computer Science Undergraduate at New York Institute of Technology | Full-Stack Developer | AI & App Development Enthusiast</h3>
+# Alan Yuan
 
-<p align="center">
-  🚀 Passionate about building impactful software — from intelligent AI systems to user-focused mobile and web apps.  
-  I love experimenting with new technologies and improving how people interact with digital tools.
-</p>
+**Full-Stack Engineer** · New York, NY  
+CS Graduate, NYIT (Summa Cum Laude, 3.82 GPA) · 3× IEEE/Springer Published · Open to Work
 
 ---
 
-- 🔭 I’m currently working on **Crime Map App** – a project integrating real-time data visualization and geolocation APIs.  
-- 🌱 I’m currently learning **React Native**, **Machine Learning**, and **Flask for AI-driven web applications**.  
-- 💬 Ask me about **full-stack development**, **AI integration**, **data visualization**, or **mobile app design**.  
-- 📫 Reach me at **alanyuan16@gmail.com**  
-- ⚡ Fun fact: I love going to the gym and reading about new innovations in tech & sustainability.  
+## What I Build
+
+I build production-grade full-stack applications — from AI-powered developer tooling to research platforms used by faculty at scale. I've shipped everything from REST APIs and data pipelines to interactive dashboards and Discord bots.
+
+My work lives at the intersection of clean engineering and real-world impact: tools that get used, not just deployed.
 
 ---
 
-<h3 align="left">🌐 Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/alan-yuan-nyit/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://alan-yuan.web.app/" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Portfolio" height="30" width="40" /></a>
-  <a href="mailto:alanyuan16@gmail.com"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="30" width="40" /></a>
-</p>
+## Featured Projects
+
+### 🔍 [PRism](https://github.com/AlanYuan16/PRism) — AI-Powered Code Review Assistant
+> `Python · FastAPI · Next.js 14 · TypeScript · Tailwind · Supabase · Google Gemini API`
+
+Automated PR feedback tool that analyzes code changes and surfaces actionable review comments using LLM reasoning. Built with a production FastAPI backend, a Next.js frontend, and Supabase Postgres for persistence.
+
+- End-to-end working backend with Gemini API integration
+- GitHub Actions integration for automated review triggers
+- Deployed on Railway (backend) + Vercel (frontend)
 
 ---
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
-<p align="left">
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>
-<a href="https://angular.io" target="_blank" rel="noreferrer"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-<a href="https://nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/></a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
-</p>
+### 🧩 [A\* 8-Puzzle Solver](https://github.com/AlanYuan16)
+> `Python · Flask · REST API · JavaScript`
 
+Full-stack implementation of A* search with Manhattan Distance heuristic — solves all 181,440 valid puzzle configurations with optimal path guarantees. Includes real-time UI visualization and solvability validation.
 
+---
 
+### 🤖 AI Discord Bot — Turing Test Game
+> `Python · Discord.py · Google Gemini API`
 
-<p align="center">
-  Alan Yuan | Full-Stack Developer | React Native | AI Developer | Python | Java | TypeScript | JavaScript | Flask | Node.js | Android | Firebase | Machine Learning | NYIT Computer Science | Open Source | App Development | Web Developer | Data Visualization | Software Engineer | Frontend | Backend | GitHub Portfolio
-</p>
+Multi-server Discord bot that runs an anonymized Turing Test game using Gemini API. Custom prompt engineering, randomized role assignment, and concurrent state management across servers.
+
+---
+
+### ⚙️ CPU Scheduler Simulator
+> `Java`
+
+Round Robin and priority-based CPU scheduling simulator. Analyzes turnaround time, waiting time, CPU utilization, and context switch overhead across configurable time quantum values.
+
+---
+
+## Research & Publications
+
+During my time as a Software Research Engineer at NYIT, I built production tools that supported active research studies — not demos.
+
+| Publication | Venue | Year |
+|---|---|---|
+| Visualization Tool for NYC Open Data | IEEE SusTech | 2025 |
+| Impact Analysis of NYC Flash Floods with ML | IEEE SusTech | 2025 |
+| Evaluation Tool for Cybersickness Mitigation in VR | Springer | 2024 |
+
+---
+
+## Stack
+
+```
+Languages     Python · TypeScript · JavaScript · Java · SQL · Dart · Bash
+Frontend      React.js · Next.js · React Native · Angular · Flutter · Tailwind
+Backend       Node.js · Express.js · Flask · FastAPI · NestJS · REST APIs
+Data          Pandas · NumPy · PostgreSQL · Supabase
+Infra         Docker · AWS · CI/CD · GitHub Actions · Railway · Vercel
+Auth          JWT · OAuth · WebSockets
+```
+
+---
+
+## Let's Connect
+
+📧 alanyuan402@gmail.com  
+🌐 [alan-yuan.vercel.app](https://alan-yuan.vercel.app)  
+💼 [linkedin.com/in/alan-yuan-nyit](https://linkedin.com/in/alan-yuan-nyit)
